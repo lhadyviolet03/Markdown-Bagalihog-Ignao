@@ -80,4 +80,4 @@ This report details the results of an ethical hacking engagement aimed at uncove
 **Conclusion**: The ethical hacking engagement conducted on PhilHealth's systems revealed significant vulnerabilities that pose a threat to patient data security and privacy. Implementing recommended remediation measures is crucial to enhance PhilHealth's security posture and protect sensitive information from unauthorized access and data breaches. PhilHealth must prioritize cybersecurity initiatives, maintain proactive threat detection, and cultivate a culture of security awareness among its employees. Continued investment in cybersecurity measures, regular assessments, and ongoing training will be essential to safeguard patient data and maintain trust among members. Addressing these cybersecurity risks demonstrates PhilHealth's commitment to protecting healthcare information and delivering quality services to the Filipino population.
 
 **Signature:**
-![Ethical Hackers Signature](signature.png)
+![Ethical Hackers Signature](pirma.png)
